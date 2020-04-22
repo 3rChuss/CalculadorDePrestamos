@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cotizador de Prestamos
+
+Crado con ReactJs en su variantes create-react-app
+### `[Create React App](https://github.com/facebook/create-react-app).`
+
+Instala con `npm init`
+
+
+-------------------------------------------------------
+
 
 ## Available Scripts
 
